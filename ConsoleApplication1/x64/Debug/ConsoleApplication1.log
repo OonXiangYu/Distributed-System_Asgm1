@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DistributedSytem_Asgm1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DistributedSystem_Asgm1.cpp
+C:\Users\GIGABYTE\Desktop\Distributed-System_Asgm1\ConsoleApplication1\DistributedSystem_Asgm1.cpp(33,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GIGABYTE\Desktop\Distributed-System_Asgm1\ConsoleApplication1\DistributedSystem_Asgm1.cpp(46,29): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\GIGABYTE\Desktop\Distributed-System_Asgm1\ConsoleApplication1\x64\Debug\DistributedSystem_Asgm1.exe
